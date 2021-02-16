@@ -23,7 +23,7 @@ The following artifacts demonstrate my proficiency in the core competencies of t
 1. README.md 
     - Overview of Portfolio Contents
 
-2. [VladimirDinolovResume.pdf]()
+2. [VladimirDinolovResume.pdf](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Resume.pdf)
     - Current Resume
 
 3. [Draft_Portfolio_Milestone_Vladimir_Dinolov]()
