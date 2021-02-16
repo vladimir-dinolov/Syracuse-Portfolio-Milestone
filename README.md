@@ -20,5 +20,22 @@ The following artifacts demonstrate my proficiency in the core competencies of t
 * Synthesize the ethical dimensions of the data science practice
 
 ## Table of Contents
+1. README.md 
+    - Overview of Portfolio Contents
 
+2. [VladimirDinolovResume.pdf]()
+    - Current Resume
 
+3. [Draft_Portfolio_Milestone_Vladimir_Dinolov]()
+    - Written Portfolio Milestone Report
+
+4. Referenced Projects and Deliverables (TBD) 
+    * [Project 1: Erasing the Opportunity Gap in NYC Public Schools](https://github.com/vladimir-dinolov/NYDOE.git)
+    * [Project 2: Optimizing Energy Outages to Minimize Costs and Maximize Revenue](https://github.com/vladimir-dinolov/Hydro.git)
+    * [Project 3: Tracking User Behavior and Acquisition to Increase Pageviews](https://github.com/vladimir-dinolov/Google-Analytics.git)
+  
+5. Portfolio Presentation Video (TBD)
+    - This space is for the presentation video that will be recorded. 
+
+6. Portfolio Presentation Materials (TBD) 
+    - This space is for presentation materials like PowerPoint slides. 
