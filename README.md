@@ -26,7 +26,7 @@ The following artifacts demonstrate my proficiency in the core competencies of t
 2. [VladimirDinolovResume.pdf](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Resume.pdf)
     - Current Resume
 
-3. [Draft_Portfolio_Milestone_Vladimir_Dinolov]()
+3. [Draft_Portfolio_Milestone_Vladimir_Dinolov](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Draft_Portfolio_Milestone.pdf)
     - Written Portfolio Milestone Report
 
 4. Referenced Projects and Deliverables (TBD) 
