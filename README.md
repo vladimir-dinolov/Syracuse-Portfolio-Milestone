@@ -29,7 +29,7 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
 4. Referenced Projects and Deliverables (TBD) 
     * [Educator Effectiveness Database](https://github.com/vladimir-dinolov/educator_effectiveness_db)
     * [Erasing the Opportunity Gap in NYC Schools](https://github.com/vladimir-dinolov/NYDOE.git)
-    * [SAM Labs Customer Profiling](https://github.com/vladimir-dinolov/.git)
+    * [SAM Labs Customer Profiling](https://github.com/vladimir-dinolov/samlabs_customerprofiling)
     * [Optimizing Hydroelectric Energy Supply Chains](https://github.com/vladimir-dinolov/Hydro.git)
   
 5. Portfolio Presentation Video (TBD)
