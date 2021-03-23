@@ -23,16 +23,17 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
 2. [VladimirDinolovResume.pdf](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Resume.pdf)
     - Current Resume
 
-3. [Draft_Portfolio_Milestone_Vladimir_Dinolov](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Draft_Portfolio_Milestone.pdf)
+3. [Draft_Portfolio_Milestone_Vladimir_Dinolov]()
     - Written Portfolio Milestone Report
 
 4. Referenced Projects and Deliverables (TBD) 
-    * [Project 1: Erasing the Opportunity Gap in NYC Public Schools](https://github.com/vladimir-dinolov/NYDOE.git)
-    * [Project 2: Optimizing Energy Outages to Minimize Costs and Maximize Revenue](https://github.com/vladimir-dinolov/Hydro.git)
-    * [Project 3: Tracking User Behavior and Acquisition to Increase Pageviews](https://github.com/vladimir-dinolov/Google-Analytics.git)
+    * [Educator Effectiveness Database](https://github.com/vladimir-dinolov/.git)
+    * [Erasing the Opportunity Gap in NYC Schools](https://github.com/vladimir-dinolov/NYDOE.git)
+    * [SAM Labs Customer Profiling](https://github.com/vladimir-dinolov/.git)
+    * [Optimizing Hydroelectric Energy Supply Chains](https://github.com/vladimir-dinolov/Hydro.git) - upload images
   
 5. Portfolio Presentation Video (TBD)
-    - This space is for the presentation video that will be recorded. 
+    - Recorded Presentation of Portfolio Milestone
 
 6. Portfolio Presentation Materials (TBD) 
-    - This space is for presentation materials like PowerPoint slides. 
+    - Slides from the Recorded Presentation
