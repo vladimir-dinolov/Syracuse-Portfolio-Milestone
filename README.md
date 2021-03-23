@@ -23,7 +23,7 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
 2. [VladimirDinolovResume.pdf](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Resume.pdf)
     - Current Resume
 
-3. [Portfolio_Milestone_Vladimir_Dinolov]()
+3. [Portfolio_Milestone_Vladimir_Dinolov](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone)
     - Written Portfolio Milestone Report
 
 4. Referenced Projects and Deliverables (TBD) 
