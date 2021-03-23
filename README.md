@@ -30,7 +30,7 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
     * [Educator Effectiveness Database](https://github.com/vladimir-dinolov/educator_effectiveness_db)
     * [Erasing the Opportunity Gap in NYC Schools](https://github.com/vladimir-dinolov/NYDOE.git)
     * [SAM Labs Customer Profiling](https://github.com/vladimir-dinolov/.git)
-    * [Optimizing Hydroelectric Energy Supply Chains](https://github.com/vladimir-dinolov/Hydro.git) - upload images
+    * [Optimizing Hydroelectric Energy Supply Chains](https://github.com/vladimir-dinolov/Hydro.git)
   
 5. Portfolio Presentation Video (TBD)
     - Recorded Presentation of Portfolio Milestone
