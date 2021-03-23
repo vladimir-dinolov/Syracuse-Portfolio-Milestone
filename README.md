@@ -8,7 +8,7 @@ VDDINOLO@SYR.EDU
 
 In my time as a student of the Applied Data Science program at Syracuse University's School of Information Studies, I've been fortunate to develop both a theoretical and practical understanding of data science methods and best practices. Throughout my coursework in Database Administration, Data Analytics, Scripting for Data Analysis, Big Data Analytics, Quantitative Reasoning in Data Science and Marketing Analytics, I've gathered artifacts that demonstrate my learning using tools like Python, R, Tableau, Spark, and Adobe Illustrator. These artifacts are aligned to the Applied Data Science program's core competencies: 
 
-* nderstanding and articulation of the major practice areas of data science
+* Understanding and articulation of the major practice areas of data science
 * Collection and organization of Data
 * Identification of patterns in data via visualization, statistical analysis, and data mining
 * Development of alternative strategies based on data
