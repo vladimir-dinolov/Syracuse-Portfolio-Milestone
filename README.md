@@ -32,7 +32,7 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
     * [SAM Labs Customer Profiling](https://github.com/vladimir-dinolov/samlabs_customerprofiling)
     * [Optimizing Hydroelectric Energy Supply Chains](https://github.com/vladimir-dinolov/Hydro.git)
   
-5. Portfolio Presentation Video
+5. [Portfolio Presentation Video](https://drive.google.com/file/d/1s1p-PQwoJG1mvORwissIyr_t_A-F7SyA/view?usp=sharing)
     - Recorded Presentation of Portfolio Milestone
 
 6. [Portfolio Presentation Materials](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Final_Portfolio_Presentation.pdf)
