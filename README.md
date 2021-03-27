@@ -23,7 +23,7 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
 2. [VladimirDinolovResume.pdf](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Resume.pdf)
     - Current Resume
 
-3. [Portfolio_Milestone_Vladimir_Dinolov](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_PortfolioMilestone.pdf)
+3. [Portfolio_Milestone_Vladimir_Dinolov](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Portfolio_Milestone.pdf)
     - Written Portfolio Milestone Report
 
 4. Referenced Projects and Deliverables
@@ -32,7 +32,7 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
     * [SAM Labs Customer Profiling](https://github.com/vladimir-dinolov/samlabs_customerprofiling)
     * [Optimizing Hydroelectric Energy Supply Chains](https://github.com/vladimir-dinolov/Hydro.git)
   
-5. Portfolio Presentation Video (TBD)
+5. Portfolio Presentation Video
     - Recorded Presentation of Portfolio Milestone
 
 6. [Portfolio Presentation Materials](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Final_Portfolio_Presentation.pdf)
