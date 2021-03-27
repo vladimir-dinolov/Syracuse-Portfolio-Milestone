@@ -36,4 +36,4 @@ In my time as a student of the Applied Data Science program at Syracuse Universi
     - Recorded Presentation of Portfolio Milestone
 
 6. Portfolio Presentation Materials (TBD) 
-    - Slides from the Recorded Presentation
+    - [Slides from the Recorded Presentation](https://github.com/vladimir-dinolov/Syracuse-Portfolio-Milestone/blob/main/Vladimir_Dinolov_Final_Portfolio_Presentation.pdf)
